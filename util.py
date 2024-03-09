@@ -10,7 +10,7 @@ GitHub Repository:
 https://github.com/FenghaoZhu/GEMML
 
 Related arXiv Paper:
-https://arxiv.org/abs/xxxx.xxxxx
+https://arxiv.org/abs/2402.10626
 
 file introduction
 ------------------------------
