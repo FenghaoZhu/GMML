@@ -2,6 +2,12 @@
 This repository is the Python implementation of paper _"[Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning](https://arxiv.org/abs/2402.10626)"_.
 
 A simplified version, titled _"[Energy-efficient Beamforming for RIS-aided Communications: Gradient Based Meta Learning](https://arxiv.org/abs/2311.06861)"_ and with manifold learning technique removed, was accepted for 2024 IEEE International Conference on Communications (ICC).
+
+## Blog
+English version : [Click here](https://zhuanlan.zhihu.com/p/695011497).
+
+Chinese version : [Click here](https://zhuanlan.zhihu.com/p/686734331).
+
 ## Files in this repo
 `main.py`: The main function. Can be directly run to get the results.
 
