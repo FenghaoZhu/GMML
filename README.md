@@ -1,7 +1,7 @@
 # GMML
 This repository is the Python implementation of paper _"[Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning](https://ieeexplore.ieee.org/document/10623434)"_, which has been accepted by _IEEE Transactions on Wireless Communications 2024_
 
-A simplified version, titled _"[Energy-efficient Beamforming for RIS-aided Communications: Gradient Based Meta Learning](https://arxiv.org/abs/2311.06861)"_ and with manifold learning technique removed, has been accepted for _2024 IEEE International Conference on Communications (ICC)_.
+A simplified version, titled _"[Energy-efficient Beamforming for RIS-aided Communications: Gradient Based Meta Learning](https://ieeexplore.ieee.org/document/10622978)"_ and with manifold learning technique removed, has been accepted for _2024 IEEE International Conference on Communications (ICC)_.
 
 ## Blog
 English version : [Click here](https://zhuanlan.zhihu.com/p/695011497).
