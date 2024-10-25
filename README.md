@@ -15,7 +15,7 @@ Chinese version : [Click here](https://zhuanlan.zhihu.com/p/686734331).
 
 `net.py`: This file defines and declares the neural networks and their params.
 
-'TWC_Paper.pdf': This file is the PDF file of the paper.
+`TWC_Paper.pdf`: This file is the PDF file of the paper.
 
 ## Reference
 Should you find this work beneficial, **kindly grant it a star**!
@@ -29,7 +29,7 @@ X. Wang, F. Zhu, Q. Zhou, Q. Yu, C. Huang, A. Alhammadi, Z. Zhang, C. Yuen, and 
 
 ```bibtex
 
-@ARTICLE{10623434,
+@ARTICLE{Zhu2024GMML,
   author={Zhu, Fenghao and Wang, Xinquan and Huang, Chongwen and Yang, Zhaohui and Chen, Xiaoming and Alhammadi, Ahmed and Zhang, Zhaoyang and Yuen, Chau and Debbah, Mérouane},
   journal={IEEE Transactions on Wireless Communications}, 
   title={Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning}, 
@@ -50,6 +50,13 @@ X. Wang, F. Zhu, Q. Zhou, Q. Yu, C. Huang, A. Alhammadi, Z. Zhang, C. Yuen, and 
 }
 
 ```
+## More than GMML...
+We are excited to announce a novel method that utilizes linear approximations of **ODE-based neural networks** to optimize spectrum efficiency in beamforming in mmWave MIMO systems. 
+
+Compared to baseline, it only uses **1.6\% of time** to optimize and achieves a **significantly stronger robustness**! 
+
+See [GLNN](https://github.com/tp1000d/GLNN) for more information!
+
 ## Star History
 
 <a href="https://star-history.com/#FenghaoZhu/GMML&Date">
