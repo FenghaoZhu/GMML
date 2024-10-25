@@ -51,7 +51,7 @@ X. Wang, F. Zhu, Q. Zhou, Q. Yu, C. Huang, A. Alhammadi, Z. Zhang, C. Yuen, and 
 
 ```
 ## More than GMML...
-We are excited to announce a novel method that utilizes linear approximations of **ODE-based neural networks** to optimize spectrum efficiency in beamforming in mmWave MIMO systems. 
+We are excited to announce a novel method that utilizes linear approximations of **ODE-based neural networks** to optimize sum rate in beamforming in mmWave MIMO systems. 
 
 Compared to baseline, it only uses **1.6\% of time** to optimize and achieves a **significantly stronger robustness**! 
 
