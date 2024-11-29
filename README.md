@@ -22,7 +22,7 @@ Should you find this work beneficial, **kindly grant it a star**!
 
 To follow our research, **please consider citing**:
 
-F. Zhu et al., "Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning," in _IEEE Transactions on Wireless Communications_, doi: 10.1109/TWC.2024.3435023.
+F. Zhu et al., "Robust Beamforming for RIS-Aided Communications: Gradient-Based Manifold Meta Learning," in _IEEE Transactions on Wireless Communications_, vol. 23, no. 11, pp. 15945-15956, Nov. 2024.
 
 X. Wang, F. Zhu, Q. Zhou, Q. Yu, C. Huang, A. Alhammadi, Z. Zhang, C. Yuen, and M. Debbah, "Energy-efficient Beamforming for RISs-aided Communications: Gradient Based Meta Learning," in _Proc. of the 2024 IEEE International Conference on Communications (ICC)_, Jun. 9, 2024, pp. 3464-3469.
 
@@ -34,9 +34,9 @@ X. Wang, F. Zhu, Q. Zhou, Q. Yu, C. Huang, A. Alhammadi, Z. Zhang, C. Yuen, and 
   journal={IEEE Transactions on Wireless Communications}, 
   title={Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={23},
+  number={11},
+  pages={15945-15956},
   keywords={Reconfigurable intelligent surfaces;meta learning;manifold learning;gradient;beamforming},
   doi={10.1109/TWC.2024.3435023}}
 
